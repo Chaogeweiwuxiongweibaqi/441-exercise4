@@ -21,7 +21,7 @@ function registerUser() {
     localStorage.setItem('password', password);  
   
     alert('Registration successful!');  
-    window.location.href = 'Login.html';
+    window.location.href = 'login.html';
 }  
   
 // Call the function when the register button is clicked  
